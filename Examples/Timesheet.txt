@@ -1,0 +1,33 @@
+Raid_Migration Standup Meeting
+VF Daily Standup Meeting
+Cross-Selling Stadnup Meeting
+
+have a meeting with VF to solve production issues
+
+Solve and Approve PRs
+Make MRs for streams
+
+Support Team to solve thir issues 
+Run LTE decoder for one day
+Check LTE transformation performance
+Check MSC transformation performance
+
+Decode and test "timest to null" for returned stream from PRD
+
+Work on dev server and other tasks
+
+
+Check RTX_VOICE Performance 
+Checking DWH_USG Performance
+Studying OEM_DATABASE Tutorials for certificate
+Taking OEM Databases Quiz
+Studying Denodo Tutorials
+
+
+
+
+
+
+
+
+
